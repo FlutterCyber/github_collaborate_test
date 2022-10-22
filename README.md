@@ -1,6 +1,6 @@
 # github_collaborate_test
 
-A new Flutter project.
+Github collaborate ishladi.
 
 ## Getting Started
 
